@@ -1,4 +1,4 @@
-# Oofie's Codename Scripts
+# Oofie's Scripts
 
 
 These are all my softcoded scripts I've made.
